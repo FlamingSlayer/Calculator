@@ -2,7 +2,7 @@
 
 > A simple, responsive calculator built with **HTML** and **CSS**.
 
-**Live Demo:** https://flamingcalculator.netlify.app/
+**Live Demo:** https://flamingcalculator.netlify.app/j
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-100%25-orange?style=flat-square)
